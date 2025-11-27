@@ -1,0 +1,32 @@
+2025-11-27 14:20:08,348 - INFO - === Iniciando execução completa do ETL ===
+2025-11-27 14:20:08,348 - INFO - Iniciando extração de preços da API
+2025-11-27 14:20:08,838 - INFO - Extração concluída: 20 registros
+2025-11-27 14:20:08,838 - INFO - Iniciando transformação dos dados
+2025-11-27 14:20:08,839 - INFO - Transformação concluída
+2025-11-27 14:20:08,839 - INFO - Iniciando carga para o banco SQLite
+2025-11-27 14:20:08,868 - INFO - Carga concluída com sucesso: tabela 'prices' atualizada
+2025-11-27 14:20:08,868 - INFO - === ETL finalizado com sucesso ===
+2025-11-27 14:21:21,300 - INFO - === Iniciando execução completa do ETL ===
+2025-11-27 14:21:21,300 - INFO - Iniciando extração de preços da API
+2025-11-27 14:21:22,399 - INFO - Extração concluída: 20 registros
+2025-11-27 14:21:22,400 - INFO - Iniciando transformação dos dados
+2025-11-27 14:21:22,401 - INFO - Transformação concluída
+2025-11-27 14:21:22,401 - INFO - Iniciando carga para o banco SQLite
+2025-11-27 14:21:22,432 - INFO - Carga concluída com sucesso: tabela 'prices' atualizada
+2025-11-27 14:21:22,432 - INFO - === ETL finalizado com sucesso ===
+2025-11-27 14:24:55,788 - INFO - === Iniciando execução completa do ETL ===
+2025-11-27 14:24:55,788 - INFO - Iniciando extração de preços da API
+2025-11-27 14:24:56,889 - INFO - Extração concluída: 20 registros
+2025-11-27 14:24:56,890 - INFO - Iniciando transformação dos dados
+2025-11-27 14:24:56,890 - INFO - Transformação concluída
+2025-11-27 14:24:56,890 - INFO - Iniciando carga para o banco SQLite
+2025-11-27 14:24:56,915 - INFO - Carga concluída com sucesso: tabela 'prices' atualizada
+2025-11-27 14:24:56,915 - INFO - === ETL finalizado com sucesso ===
+2025-11-27 14:25:59,763 - INFO - === Iniciando execução completa do ETL ===
+2025-11-27 14:25:59,763 - INFO - Iniciando extração de preços da API
+2025-11-27 14:26:00,259 - INFO - Extração concluída: 20 registros
+2025-11-27 14:26:00,260 - INFO - Iniciando transformação dos dados
+2025-11-27 14:26:00,261 - INFO - Transformação concluída
+2025-11-27 14:26:00,261 - INFO - Iniciando carga para o banco SQLite
+2025-11-27 14:26:00,287 - INFO - Carga concluída com sucesso: tabela 'prices' atualizada
+2025-11-27 14:26:00,287 - INFO - === ETL finalizado com sucesso ===
